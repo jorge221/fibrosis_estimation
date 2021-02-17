@@ -1,2 +1,4 @@
-# fibrosis_estimation
-Repository containing scripts to estimate fibrosis from intracardiac signals
+# Fibrosis Estimation
+Repository containing carptuils scripts and files to study intracardiac signals.
+
+All simulations were run using (openCARP)[https://opencarp.org/].
